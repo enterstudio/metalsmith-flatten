@@ -6,6 +6,6 @@
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
-    "multimatch": "^1.0.1"
+    "multimatch": "^2.1.0"
   }
 }
